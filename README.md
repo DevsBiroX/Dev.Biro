@@ -1,36 +1,23 @@
-# 👋 Hi there, I’m DevsBiroX!
+# 👋 Olá, eu sou Dev.BiroX!
 
-Welcome to my GitHub profile!  
-I'm passionate about technology, open-source, and building impactful solutions. Here you'll find a collection of my projects, collaborations, and contributions across various domains.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, código aberto e pela criação de soluções impactantes. Aqui você encontrará uma coleção dos meus projetos, colaborações e contribuições em diversos domínios.
 
----
+## Sobre Mim💡 
 
-## 🚀 About Me
+**Programador Curioso**: Constantemente aprendendo e experimentando novas tecnologias. - 🌱 **Entusiasta de Código Aberto**: Colaborador e apoiador da comunidade de código aberto. - 🤝 **Colaborador**: Sempre aberto a trabalhar em ideias interessantes e projetos inovadores. --- 
 
-- 💡 **Curious Coder**: Constantly learning and experimenting with new technologies.
-- 🌱 **Open Source Enthusiast**: Contributor and supporter of the open-source community.
-- 🤝 **Collaborator**: Always open to working on exciting ideas and innovative projects.
+## 🔥 Meus Destaques
 
----
+🛠️ **Principais Habilidades**: *(a serem personalizados)*
+📂 **Projetos em Destaque**: *(a serem personalizados)*
+🌐 **Links Sociais**: *(a serem personalizados)*
 
-## 🔥 My Highlights
-
-- 🛠️ **Top Skills**: *(to be personalized)*
-- 📂 **Featured Projects**: *(to be personalized)*
-- 🌐 **Social Links**: *(to be personalized)*
-
----
-
-## 📈 GitHub Stats
+## 📈 Minha estatísticas do GitHub
 
 ![DevsBiroX's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsBiroX&show_icons=true&theme=radical)
 
----
+## 🧑‍💻 Vamos nos conectar! 
 
-## 🧑‍💻 Let's Connect!
+Estou sempre animado para me conectar com outros desenvolvedores, compartilhar conhecimento e colaborar em projetos impactantes.
 
-I'm always excited to connect with fellow developers, share knowledge, and collaborate on impactful projects.
-
----
-
-*This README is a living document and will be updated regularly. Stay tuned!*
+*Este README é um documento dinâmico e será atualizado regularmente. Fique ligado!*
